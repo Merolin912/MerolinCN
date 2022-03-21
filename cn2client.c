@@ -1,4 +1,4 @@
-#Using TCP/IP sockets, write a client-server program to make the client send the file name
+#Using TCP/IP sockets, write a Client-server program to make the client send the file name
 #and to make the server send back the contents of the requested file If present.
 #include<stdio.h>
 #include<fcntl.h>
