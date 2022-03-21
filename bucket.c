@@ -1,4 +1,4 @@
-#Write a program For congestion control using leaky bucket algorithm.
+#Write a program For Congestion control using leaky bucket algorithm.
 #include<stdio.h>
 void main()
 {
