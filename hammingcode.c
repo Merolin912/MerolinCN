@@ -1,4 +1,4 @@
-#Write a program For Hamming code generation For error detection and correction.
+#Write a program For Hamming code generation For Error detection and correction.
 #include<stdio.h>
 void main()
 {
